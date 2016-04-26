@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: ce1a4433a0b9d514bb069680e36aacfe
+timeCreated: 1461369789
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oorjG_0
+    21300002: oorjG_1
+    21300004: oorjG_2
+    21300006: oorjG_3
+    21300008: oorjG_4
+    21300010: oorjG_5
+    21300012: oorjG_6
+    21300014: oorjG_7
+    21300016: oorjG_8
+    21300018: oorjG_9
+    21300020: oorjG_10
+    21300022: oorjG_11
+    21300024: oorjG_12
+    21300026: oorjG_13
+    21300028: oorjG_14
+    21300030: oorjG_15
+    21300032: oorjG_16
+    21300034: oorjG_17
+    21300036: oorjG_18
+    21300038: oorjG_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: oorjG_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 282
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 31}
+        - {x: -16, y: 30}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 28}
+        - {x: 14, y: 31}
+    - name: oorjG_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 282
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 33}
+        - {x: -16, y: 31}
+        - {x: -16, y: -33}
+        - {x: 16, y: -33}
+        - {x: 16, y: 33}
+    - name: oorjG_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 284
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 31}
+        - {x: -18, y: 31}
+        - {x: -19, y: 29}
+        - {x: -19, y: -31}
+        - {x: 19, y: -31}
+        - {x: 19, y: 18}
+        - {x: 16, y: 30}
+    - name: oorjG_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 282
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 33}
+        - {x: -16, y: 31}
+        - {x: -16, y: -33}
+        - {x: 16, y: -33}
+        - {x: 16, y: 33}
+    - name: oorjG_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 284
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 31}
+        - {x: -18, y: -31}
+        - {x: 15, y: -31}
+        - {x: 18, y: -30}
+        - {x: 18, y: 20}
+        - {x: 16, y: 30}
+        - {x: 14, y: 31}
+    - name: oorjG_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 194
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 14, y: -11}
+        - {x: 18, y: -10}
+        - {x: 18, y: 31}
+        - {x: -12, y: 31}
+        - {x: -16, y: 30}
+        - {x: -18, y: 27}
+        - {x: -18, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: -12}
+        - {x: 16, y: -11}
+    - name: oorjG_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 192
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 33}
+        - {x: -16, y: -33}
+        - {x: 16, y: -33}
+        - {x: 16, y: 33}
+    - name: oorjG_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 194
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 31}
+        - {x: -16, y: 29}
+        - {x: -19, y: 24}
+        - {x: -19, y: -31}
+        - {x: 19, y: -31}
+        - {x: 19, y: 31}
+    - name: oorjG_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 192
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 33}
+        - {x: -16, y: -33}
+        - {x: 16, y: -33}
+        - {x: 16, y: 33}
+    - name: oorjG_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 192
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -31}
+        - {x: 16, y: 31}
+        - {x: -16, y: 31}
+        - {x: -16, y: -31}
+    - name: oorjG_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 104
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 31}
+        - {x: -16, y: 23}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 26}
+        - {x: 15, y: 31}
+    - name: oorjG_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 104
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 31}
+        - {x: -17, y: 28}
+        - {x: -17, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 29}
+        - {x: 12, y: 31}
+    - name: oorjG_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 31}
+        - {x: -16, y: 21}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 25}
+        - {x: 9, y: 31}
+    - name: oorjG_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 104
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 31}
+        - {x: -17, y: -30}
+        - {x: -16, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 25}
+        - {x: 14, y: 31}
+    - name: oorjG_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 102
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 31}
+        - {x: -16, y: 26}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 27}
+        - {x: 8, y: 31}
+    - name: oorjG_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 14
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 31}
+        - {x: -16, y: 23}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 27}
+        - {x: 12, y: 31}
+    - name: oorjG_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 14
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 31}
+        - {x: -18, y: 28}
+        - {x: -18, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: 31}
+    - name: oorjG_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 12
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -18, y: 28}
+        - {x: -18, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 30}
+        - {x: 12, y: 32}
+    - name: oorjG_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 14
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 31}
+        - {x: -18, y: 25}
+        - {x: -18, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: 16}
+        - {x: 9, y: 31}
+    - name: oorjG_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 14
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -18, y: 30}
+        - {x: -18, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 30}
+        - {x: 15, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
