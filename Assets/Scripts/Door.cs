@@ -5,7 +5,6 @@ public class Door : MonoBehaviour {
 
 	public Sprite openDoor;
 	public Sprite closedDoor;
-	private int x = 1000;
 	private SpriteRenderer sr;
 	public bool isOpen;
 
