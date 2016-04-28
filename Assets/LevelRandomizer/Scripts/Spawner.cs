@@ -7,7 +7,7 @@ public class Spawner : MonoBehaviour {
 	private int spawnZonesCount;
 	public float width 		= 12;
 	public float height 	= 7;
-	private bool movingRigth = false;
+
 	private float speed = 5;
 	//private float selfWidth;
 
@@ -16,6 +16,7 @@ public class Spawner : MonoBehaviour {
 
 	float leftLimit;
 	float rightLimit;
+
 
 
 	// Use this for initialization

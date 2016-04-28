@@ -6,9 +6,11 @@ public abstract class Entity : MonoBehaviour {
 
     public float maxSpeed;
     public float speed;
+	public float shotspeed;
+	public float damage;
         
     public int curHealth;
-    public int maxHealth = 100;
+    public int maxHealth = 1000;
 
     private gameMaster gm;
 
@@ -26,7 +28,7 @@ public abstract class Entity : MonoBehaviour {
         }
         if (curHealth <= 0)
         {
-            Die();
+            //Die();
         }
     }
 
@@ -48,21 +50,7 @@ public abstract class Entity : MonoBehaviour {
         SceneManager.LoadScene("Lose");
     }
 
-    void OnTriggerEnter2D(Collider2D col)
-    {
-		/*
-        if (col.CompareTag("Coin"))
-        {
-            Destroy(col.gameObject);
-            gm.score += 1;
-        }
-        if (col.CompareTag("FlagPoints"))
-        {
-            Destroy(col.gameObject);
-            gm.score += 50;
-        }
-        */
-    }
+   
 
     void SaveScore()
     {

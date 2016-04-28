@@ -45,8 +45,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ItemText.cs" />
+     <Compile Include="Assets\BOSS\Scripts\Boss01.cs" />
+     <Compile Include="Assets\BOSS\Scripts\Boss02.cs" />
+     <Compile Include="Assets\BOSS\Scripts\Boss03.cs" />
+     <Compile Include="Assets\BOSS\Scripts\Fire.cs" />
+     <Compile Include="Assets\BOSS\Scripts\Health.cs" />
+     <Compile Include="Assets\BOSS\Scripts\Health2.cs" />
+     <Compile Include="Assets\BOSS\Scripts\Health3.cs" />
+     <Compile Include="Assets\Enemy\Scripts\EnemyController.cs" />
+     <Compile Include="Assets\Enemy\Scripts\EnemyController2.cs" />
+     <Compile Include="Assets\Enemy\Scripts\EnemyController3.cs" />
+     <Compile Include="Assets\Enemy\Scripts\FireballController.cs" />
      <Compile Include="Assets\Items\GenericItem.cs" />
+     <Compile Include="Assets\LevelRandomizer\Scripts\BossSpawner.cs" />
+     <Compile Include="Assets\LevelRandomizer\Scripts\EnemySpawner.cs" />
      <Compile Include="Assets\LevelRandomizer\Scripts\MasterCreator.cs" />
      <Compile Include="Assets\LevelRandomizer\Scripts\SpawnZone.cs" />
      <Compile Include="Assets\LevelRandomizer\Scripts\Spawner.cs" />
@@ -59,7 +71,10 @@
      <Compile Include="Assets\Player\Scripts\PlayerShoot.cs" />
      <Compile Include="Assets\Player\Scripts\Weapon.cs" />
      <Compile Include="Assets\Player\Scripts\gameMaster.cs" />
+     <Compile Include="Assets\Scripts\Bala.cs" />
      <Compile Include="Assets\Scripts\Door.cs" />
+     <Compile Include="Assets\Scripts\Fuego.cs" />
+     <Compile Include="Assets\Scripts\ItemText.cs" />
      <Compile Include="Assets\Scripts\LevelManager.cs" />
      <Compile Include="Assets\Scripts\MusicManager.cs" />
      <Compile Include="Assets\Scripts\OptionsController.cs" />

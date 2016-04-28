@@ -34,7 +34,7 @@ public class GenericItem : MonoBehaviour {
 			Vector3 v3 = new Vector3 (-2.55f, 3f, -1f);
 			GameObject shotClone = (GameObject)Instantiate (letrero, v3, Quaternion.identity);
 			shotClone.GetComponent<ItemText> ().description = descripcion;
-
+			Destroy (gameObject, 0.1f);
 			//		shotClone.GetComponent<Rigidbody2D> ().velocity = new Vector2 (playerPos.position.x * shotSpeed * shootDirection, playerPos.position.y * shotSpeed);
 		} 
 	}

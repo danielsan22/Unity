@@ -5,6 +5,7 @@ public class BulletPlayer : MonoBehaviour {
 
     public int dmg = 10;
 
+
     void OnTriggerEnter2D(Collider2D col)
     {
         if (col.isTrigger != true && col.CompareTag("Enemy"))

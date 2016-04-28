@@ -38,17 +38,21 @@ public class MasterCreator : MonoBehaviour {
 			lv.LoadLevel (levels [levelCounter]);		
 			levelCounter++;
 			Debug.Log ("Counter" + levelCounter);
+		} else {
+			LevelManager lv = new LevelManager ();
+			lv.LoadLevel ("Loose");		
 		}
 	}
 
 
 	private void RandomizeLevels(){
-		levels = new string[7];
+		levels = new string[8];
 		for (int i = 0; i < 7; i++) {
 			int x = Random.Range (1, 10);
 			levels [i] = "Level0" + x;
 			//Debug.Log ("pos"+i+":"+levels [i]);
 		}
+		levels [7] = "Level10";
 
 
 
